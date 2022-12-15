@@ -1,0 +1,9 @@
+[submodule "resources/alacritty"]
+	path = resources/alacritty
+	url = https://github.com/alacritty/alacritty.git
+[submodule "resources/rustlings"]
+	path = resources/rustlings
+	url = https://github.com/rust-lang/rustlings.git
+[submodule "resources/rustdesk"]
+	path = resources/rustdesk
+	url = https://github.com/rustdesk/rustdesk.git
